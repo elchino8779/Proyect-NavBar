@@ -26,23 +26,11 @@
     <br>
     <h2> 📷 Capturas:</h2>
     <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ProyectoTicmas/Pantalla1.png?raw=true" alt="Cap1" width="700">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/NavBar/NavBar01.png?raw=true" alt="Cap1" width="700">
     <br>
     <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ProyectoTicmas/Pantalla2.png?raw=true" alt="Cap2" width="700">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/NavBar/NavBar02.png?raw=true" alt="Cap2" width="700">
     <br>
     <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ProyectoTicmas/Pantalla3.png?raw=true" alt="Cap3" width="700">
-    <br>
-    <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ProyectoTicmas/Pantalla4.png?raw=true" alt="Cap4" width="700">
-    <br>
-    <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ProyectoTicmas/Pantalla5.png?raw=true" alt="Cap5" width="700">
-    <br>
-    <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ProyectoTicmas/Pantalla6.png?raw=true" alt="Cap6" width="400">
-    <br>
-    <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ProyectoTicmas/Pantalla7.png?raw=true" alt="Cap7" width="400">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/NavBar/NavBar03.png?raw=true" alt="Cap3" width="700">
 </div>
